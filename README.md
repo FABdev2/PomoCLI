@@ -1,2 +1,2 @@
 # PomoClI
-## Installation
+Pomodoro timer for terminal enthusiasts!
